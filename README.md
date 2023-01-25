@@ -6,7 +6,9 @@
 
 - The results are generated from the remianing scripts following the name of the file. 
 
-- The requirements to run the scripts are numpy, panda, and PyMOL. 
+- The requirements to run the scripts are numpy and TensorFlow. 
+
+- The used NN is given in ????
 
 
 
