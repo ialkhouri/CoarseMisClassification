@@ -8,7 +8,7 @@
 
 - The requirements to run the scripts are numpy and TensorFlow. 
 
-- The used NN is given in ????
+- The used NN is given indie the folder TrainedModel as "FMNIST_trained_OSC_no_conv.h5".
 
 
 
